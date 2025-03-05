@@ -1,7 +1,3 @@
-# 42 School Projects
-
-Ce dépôt contient l'ensemble de mes projets réalisés dans le cadre de ma formation à l'École 42.
-
 ## 📚 Liste des Projets
 
 ### [Libft](./libft)

@@ -10,3 +10,9 @@
 [submodule "pipex"]
 	path = pipex
 	url = https://github.com/antoninpicard/42_pipex
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/antoninpicard/42_get_next_line
+[submodule "printf"]
+	path = printf
+	url = https://github.com/antoninpicard/42_printf

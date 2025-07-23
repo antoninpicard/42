@@ -20,10 +20,10 @@ Une reproduction du comportement du pipe shell (|) en C.
 ### [So Long](https://github.com/antoninpicard/42_so_long) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
 Un petit jeu 2D développé avec la MinilibX.
 
-### [Minishell](https://github.com/Retiks/Minishell) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
+### [Minishell](https://github.com/Retiks/Minishell) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEzNmxneXNjYmJkZHN5YjBtNnU3d2plNDJhZjBnd3JubWhjcjRlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FI69sbVDOWz5e/giphy.gif" width="25">
 Une la creation d'un shell Unix avec gestion des commandes, variables d'environnement, pipes et redirections.
 
-### [philosopher](https://github.com/antoninpicard/42_philosopher) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
+### [philosopher](https://github.com/antoninpicard/42_philosopher) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZsYzZiejVzeXQydHRlNGQwd3Zxc2p5cG9yZGprZG53MmJxcTY3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aC8MOx8B881yjdMCvI/giphy.gif" width="25">
 Simulation du problème classique des philosophes qui dînent, explorant les concepts de threading et de synchronisation.
 
 ## 🛠 Technologies Utilisées

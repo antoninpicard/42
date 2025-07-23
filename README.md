@@ -20,6 +20,12 @@ Une reproduction du comportement du pipe shell (|) en C.
 ### [So Long](https://github.com/antoninpicard/42_so_long) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
 Un petit jeu 2D développé avec la MinilibX.
 
+### [Minishell](https://github.com/antoninpicard/42_Minishell) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
+Un petit jeu 2D développé avec la MinilibX.
+
+### [Minishell](https://github.com/antoninpicard/42_philosopher) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
+Un petit jeu 2D développé avec la MinilibX.
+
 ## 🛠 Technologies Utilisées
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-FF69B4?style=for-the-badge&logo=gnu&logoColor=white)

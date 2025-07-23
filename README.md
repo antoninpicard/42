@@ -23,7 +23,7 @@ Un petit jeu 2D développé avec la MinilibX.
 ### [Minishell](https://github.com/antoninpicard/42_Minishell) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
 Un petit jeu 2D développé avec la MinilibX.
 
-### [Minishell](https://github.com/antoninpicard/42_philosopher) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
+### [philosopher](https://github.com/antoninpicard/42_philosopher) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
 Un petit jeu 2D développé avec la MinilibX.
 
 ## 🛠 Technologies Utilisées

@@ -38,7 +38,7 @@ Une exploration approfondie du C++ couvrant la programmation orientée objet (fo
 ![MinilibX](https://img.shields.io/badge/MinilibX-orange?style=for-the-badge&logo=x&logoColor=white)
 
 ## Notes
-- Tous les projets suivent la Norme de 42 (norminette)
+- Tous les projets suivent la Norme de 42 (norminette) hors C++
 - Chaque projet a été validé selon les critères d'évaluation de 42
 
 <div align="center">

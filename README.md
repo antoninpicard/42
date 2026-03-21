@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="30"> 42 Projects
 
-## 📚 Liste des Projets
+## Liste des Projets
 
 ### [Libft](https://github.com/antoninpicard/42_libft) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Une bibliothèque de fonctions C personnalisée, recréant des fonctions standards de la libc ainsi que d'autres fonctions utilitaires.
@@ -32,18 +32,15 @@ Un ray tracer minimaliste capable de générer des images 3D réalistes avec sph
 ### [C++](https://github.com/antoninpicard/42_cpp.git) <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhvNjN3YWs2YXFnbXY1aTVuN2hpMzVkd2sxYXVpempkdDV4ejF3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qwr614iHK9bqdXfeF8/giphy.gif" width="25">
 Une exploration approfondie du C++ couvrant la programmation orientée objet (forme canonique, polymorphisme), les templates et la STL, ainsi que l’implémentation d’algorithmes avancés comme le tri Ford-Johnson avec optimisation via la suite de Jacobsthal.
 
-## 🛠 Technologies Utilisées
+## Technologies Utilisées
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-FF69B4?style=for-the-badge&logo=gnu&logoColor=white)
 ![MinilibX](https://img.shields.io/badge/MinilibX-orange?style=for-the-badge&logo=x&logoColor=white)
 
-## 📝 Notes
+## Notes
 - Tous les projets suivent la Norme de 42 (norminette)
 - Chaque projet a été validé selon les critères d'évaluation de 42
 
 <div align="center">
-
----
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> Made with ❤️ by Antonin
 
 </div>

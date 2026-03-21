@@ -29,6 +29,8 @@ Une la creation d'un shell Unix avec gestion des commandes, variables d'environn
 ### [miniRT](https://github.com/antoninpicard/miniRT) <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="25">
 Un ray tracer minimaliste capable de générer des images 3D réalistes avec sphères, plans et cylindres. Implémente le modèle d'éclairage de Phong avec lumière ambiante, diffuse et gestion des ombres.
 
+### [C++](https://github.com/antoninpicard/42_cpp.git) <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhvNjN3YWs2YXFnbXY1aTVuN2hpMzVkd2sxYXVpempkdDV4ejF3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qwr614iHK9bqdXfeF8/giphy.gif" width="25">
+Une exploration approfondie du C++ couvrant la programmation orientée objet (forme canonique, polymorphisme), les templates et la STL, ainsi que l’implémentation d’algorithmes avancés comme le tri Ford-Johnson avec optimisation via la suite de Jacobsthal.
 
 ## 🛠 Technologies Utilisées
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

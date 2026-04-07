@@ -33,7 +33,7 @@ Un ray tracer minimaliste capable de générer des images 3D réalistes avec sph
 Une exploration approfondie du C++ couvrant la programmation orientée objet (forme canonique, polymorphisme), les templates et la STL, ainsi que l’implémentation d’algorithmes avancés comme le tri Ford-Johnson avec optimisation via la suite de Jacobsthal.
 
 ## Technologies Utilisées
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Make](https://img.shields.io/badge/Make-FF69B4?style=for-the-badge&logo=gnu&logoColor=white)
 ![MinilibX](https://img.shields.io/badge/MinilibX-orange?style=for-the-badge&logo=x&logoColor=white)
 
